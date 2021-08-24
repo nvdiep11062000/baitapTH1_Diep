@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baitapTH1_Diep", "baitapTH1_Diep\baitapTH1_Diep.csproj", "{FF37238F-EA5B-497B-B3A1-900447F8BD9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF37238F-EA5B-497B-B3A1-900447F8BD9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF37238F-EA5B-497B-B3A1-900447F8BD9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF37238F-EA5B-497B-B3A1-900447F8BD9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF37238F-EA5B-497B-B3A1-900447F8BD9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBAA43F7-20F3-4A4A-8262-AA0590340F00}
+	EndGlobalSection
+EndGlobal
